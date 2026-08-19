@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Peter and Faith Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:peter-faith-20261205@example.com
+DTSTAMP:20260819T120000Z
+DTSTART:20261205T060000Z
+DTEND:20261205T100000Z
+SUMMARY:Peter & Faith Wedding
+LOCATION:Funyula Altar, Busia, Kenya
+DESCRIPTION:Wedding ceremony from 9:00 AM. Reception at Samia Resort, Nangina, Mayatos-Funyula Rd, Busia.
+END:VEVENT
+END:VCALENDAR
